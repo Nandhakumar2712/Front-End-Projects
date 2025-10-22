@@ -1,0 +1,21 @@
+#count{
+    text-align: center;
+    font-size : 4em
+}
+
+#container{
+    text-align: center;
+}
+
+.tab{
+    padding:1.1em;
+    border-radius: 8px;
+    background-color:rgb(98, 168, 233);
+    color: white;
+    cursor:pointer;
+    transition: 0.25s;
+}
+
+.tab:hover{
+    background-color: rgb(91, 130, 238);
+}
